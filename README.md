@@ -1,4 +1,13 @@
-# in-orbit
-Aplicação para gerenciamento de metas semanais.
-Front-end feito em React.
-Back-end feito em NodeJs.
+
+### in-orbit
+
+##
+Aplicação Web para gerenciamento de metas semanais.
+
+## Made with
+
+- React 
+- TypeScript
+- TailwindCSS
+- NodeJS
+  
